@@ -1,0 +1,1 @@
+Just a tiny project in Python to show the viewer a free picture of a Penguin from the Internet. Nothing crazy, just tried it without learning how web interactions work in Python, so a lot of it is hacky. But that's how programming is slowly learned, right?
