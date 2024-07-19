@@ -1,0 +1,17 @@
+Let's make it functional first.
+
+The idea was to make a program that can take pictures
+of penguins, then display them on a website, but also
+prove to be a way to test for whether or not an uploaded 
+picture is a penguin based on the data. Some 
+
+This is too high level at the moment.
+
+High level? BULLSHIT THIS IS MACHINE LEARNING LEVEL! I WOULD HAVE TO GET A SERVER TO STORE ALL THE FUCKING PENGUIN PICTURES! JEEZ!
+
+LEt's make it much smaller.
+
+A script to pull a picture of a penguin from the internet, a specific picture, then show it to the program runner.
+
+DONE! :DDDDDDDDDDDDDDDDDDDDDD
+
